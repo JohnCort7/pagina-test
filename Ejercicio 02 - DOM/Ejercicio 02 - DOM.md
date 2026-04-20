@@ -4,7 +4,7 @@
 
 El **DOM** (*Document Object Model*) es la interfaz que los navegadores usan para representar un documento HTML como un árbol jerárquico de nodos. Gracias a él, JavaScript puede leer y modificar el contenido, la estructura y los estilos de una página de forma dinámica.
 
-![Árbol DOM](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/600px-DOM-model.svg.png)
+![Árbol DOM]([https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/600px-DOM-model.svg.png](https://upload.wikimedia.org/wikipedia/commons/5/5a/DOM-model.svg))
 
 ---
 
@@ -18,7 +18,7 @@ El DOM organiza cada elemento del documento —etiquetas, atributos y texto— c
 - **Eventos:** `addEventListener()`, `removeEventListener()`
 - **Traversal:** `parentNode`, `childNodes`, `nextSibling`, `firstChild`
 
-![Manipulación del DOM con JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dom_tree.png/600px-Dom_tree.png)
+![Manipulación del DOM con JavaScript]([https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dom_tree.png/600px-Dom_tree.png](https://usemynotes.com/wp-content/uploads/2021/07/what-are-the-properties-of-document-object.jpg))
 
 ---
 
