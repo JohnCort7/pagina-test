@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="img/javascript-logo.png" alt="Logo JavaScript" width="150">
+<img src="img/JavaScript-logo.png" alt="Logo JavaScript" width="150">
 
 </div>
 
@@ -24,7 +24,7 @@ JavaScript permite manipular el DOM, responder a eventos del usuario y comunicar
 
 <div align="center">
 
-<img src="img/javascript-conceptos.png" alt="Conceptos de JavaScript" width="500">
+<img src="img/javascript-basics.png" alt="Conceptos de JavaScript" width="500">
 
 </div>
 
