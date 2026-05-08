@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="img/javascript-logo.png" alt="Logo JavaScript" width="500">
+<img src="img/JavaScript-logo.png" alt="Logo JavaScript" width="500">
 
 </div>
 
